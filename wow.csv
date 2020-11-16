@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Celestine Ukwu & His Philosophers National,Celestine Ukwu & His Philosophers National,Na Nchekwube Mma Anyi Egbuna Anyi,6juKcgi75Q5uFWDyAZr1Mq,0.45,0.622,0,-5.849,1,0.0411,9.93e-06,0.138,0.738,179.203,377640,3
+T. P. Orchestre Poly-Rythmo,The Kings of Benin Urban Groove 1972 - 80,Gendamou Na Wili We Gnannin,3YLHbTeEBFvEBWZQATebxE,0.654,0.61,5,-9.846,0,0.0485,0.00719,0.0843,0.953,87.433,372347,4
+Marijata,This Is Marijata,I Walk Alone,6sVm6ik1mXyXlDFexORZpQ,0.565,0.433,4,-14.97,0,0.0393,0.225,0.0909,0.746,137.269,644440,4
+Various Artists,"Golden Afrique, vol. 1 (Bolibana Collection)",Thiely,2QbgkbCilqYgE7uItsTmf0,0.813,0.566,1,-6.986,0,0.0588,6.55e-06,0.173,0.957,147.427,249627,4
+Various Artists,"Golden Afrique, vol. 1 (Bolibana Collection)",Yaye Boye,5acvGp7BKrh2pFw8WpgYNi,0.604,0.416,1,-8.559,0,0.0405,0.2,0.107,0.609,91.036,296000,4
+Various Artists,"Golden Afrique, vol. 1 (Bolibana Collection)",Aliou Gori mami,50jSYlNMwilk4CIFdpbdW2,0.559,0.555,2,-8.216,1,0.0757,0.0139,0.0978,0.578,164.768,157600,4
+Various Artists,"Golden Afrique, vol. 1 (Bolibana Collection)",Paulette,3wk6pA4h3qNG43832erOPu,0.766,0.584,4,-8.827,0,0.0331,0.00238,0.188,0.925,132.467,462600,4
+Various Artists,Angola - The greatest songs from the 60's and the 70's,Minha Sobrinha,1OyHLrqxIARlMkt2QsG7iJ,0.665,0.808,8,-4.688,0,0.0371,0.000349,0.214,0.844,91.215,195640,4
+Fela Kuti,Expensive Shit,Water No Get Enemy,6jzbUvXYVbH6NrUS3WRMoL,0.641,0.93,10,-7.544,0,0.0528,0.0397,0.109,0.902,90.805,660480,4
+Etoile De Dakar,Volume 4 - Khaley Etoile,Youssou,0sYqxDJTDEDHPPZqY3lmWE,0.631,0.666,0,-6.901,0,0.0705,0.00326,0.0474,0.957,148.733,464827,4
+Various Artists,Afro-Rock Vol. 1,Kyenkyen Bi Adi M'awu,5sbQWyngMZovh67hphRD1a,0.506,0.673,2,-12.441,1,0.0501,0.0259,0.226,0.797,101.144,414520,4
+Various Artists,"Soundway presents Ghana Special (Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)",Din Ya Sugri,3Y5anAHDu5ztB742YnUR5t,0.594,0.774,5,-7.446,1,0.0463,0.00226,0.0741,0.795,125.46,422693,4
+Various Artists,"Soundway presents Ghana Special (Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)",I Go Die for You,5K8cF4KjUOi7GotmuDRs7A,0.706,0.531,8,-7.861,1,0.149,0.00112,0.297,0.62,135.161,322960,4
+Various Artists,"Soundway presents Ghana Special (Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)",Twer Nyame - Excerpt,26e662T4KBvAE36n4EyEXn,0.693,0.732,9,-7.284,0,0.045,0.591,0.0396,0.89,117.646,321720,4
+Various Artists,"Soundway presents Ghana Special (Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)",You Can Go,3ibH8hLosSSgODMghDcdZh,0.567,0.892,2,-4.592,1,0.0493,2.31e-05,0.0277,0.947,116.472,201787,4
+Various Artists,"Nigeria Special: Modern Highlife, Afro-Sounds & Nigerian Blues 1970-6",Ayamma,1RXWDTrjhhfD6P6p5MPZCR,0.613,0.716,0,-7.534,0,0.0836,0.0,0.101,0.838,81.239,247400,4
+Various Artists,"Nigeria Special: Modern Highlife, Afro-Sounds & Nigerian Blues 1970-6",Asiko Mi Ni,3jzb91Se9NvQlN0BnuhiHm,0.707,0.779,11,-8.248,1,0.363,1.57e-05,0.187,0.777,84.43,312933,4
+Various Artists,"Nigeria Special Volume 2: Modern Highlife, Afro-Sounds And Nigerian Blues",Shango Oba Onina,7yxUUyi1qzsbJYQWBKL4MH,0.601,0.701,0,-6.018,1,0.0834,0.0065,0.0695,0.529,91.214,180587,4
+Various Artists,"Nigeria Special Volume 2: Modern Highlife, Afro-Sounds And Nigerian Blues",The Lords Prayer,1M7rtEJcwgRb1eVdGJDB6m,0.728,0.722,3,-7.221,1,0.088,0.0,0.0725,0.941,104.587,192533,4
+Various Artists,"Nigeria Special Volume 2: Modern Highlife, Afro-Sounds And Nigerian Blues",Onwu Dinjo,530OY4IdeTzD00A7K3KXxR,0.773,0.72,11,-6.985,0,0.0549,0.00515,0.164,0.858,94.633,410987,4
+Various Artists,Nigeria Afrobeat Special: The New Explosive Sound in 1970's Nigeria,Who're You? - Original 45 Version,4aPf7pjWLwBga4M3CPoiHU,0.77,0.936,10,-4.497,0,0.121,0.0568,0.115,0.915,105.157,525133,4
+Various Artists,Nigeria Afrobeat Special: The New Explosive Sound in 1970's Nigeria,Hankuri,3cAA7GFW9iSMHerfeCuVKU,0.824,0.578,10,-8.281,0,0.215,3.34e-05,0.23,0.863,104.419,260987,4
+Fela Kuti,Why Black Man Dey Suffer,Why Black Man Dey Suffer,2TRuIOzXB1MP0irT1qQSLa,0.678,0.637,5,-9.846,0,0.054,0.0469,0.104,0.757,93.265,915587,4
+Various Artists,Nigeria 70 - Lagos Jump,Yabis,5uo5ePAL0a4VNKU6kdK7Wu,0.775,0.629,4,-10.529,0,0.0473,0.318,0.19,0.652,101.545,418320,4
+Various Artists,Nigeria 70 - Lagos Jump,Africa Irie,3iyWvww9GtXOtSaMmj4NfI,0.744,0.588,9,-8.089,0,0.149,0.309,0.0869,0.854,131.975,342013,4
+Various Artists,Nigeria 70 - Lagos Jump,You Are My Heart,14A93a5AIGoVd0Pgxv6hlc,0.676,0.686,7,-7.46,1,0.0354,0.0209,0.204,0.601,97.49,193000,4
+Various Artists,"Nigeria 70 - Sweet Times: Afro-Funk, Highlife & Juju from 1970s Lagos",Viva Disco - Instrumental,4iyKrMVDXcWvViiOMGv8C8,0.51,0.815,9,-6.053,0,0.0568,0.742,0.323,0.915,107.364,338457,4
+Tony Allen,Nepa (Never Expect Power Always),Road Close - Dance Dub,6Qru3wygclrpFxzs6uAG7t,0.834,0.884,0,-10.703,0,0.053,0.877,0.0308,0.972,114.441,404867,4
+Gyedu-Blay Ambolley,Simigwa,This Hustling World,2qWDv8zJ4xRQWMT6BSjCNk,0.697,0.534,7,-10.826,0,0.0567,1.29e-05,0.32,0.781,110.378,258577,4
+Various Artists,Nigeria 70 Vol. 1,Agboju Logun,11pnso5fMVEyrbwIXM3HDo,0.786,0.689,4,-6.826,1,0.184,0.101,0.0428,0.682,122.295,693600,4
+Ernesto Djédjé,Le roi du Ziglibithy,Zadie-Bobo,3pE2shzG8fafilQppqUIrH,0.545,0.532,1,-13.335,1,0.0567,0.0298,0.102,0.965,188.33,249813,4
+Various Artists,Afro Baby: The Evolution of the Afro-Sound in Nigeria 1970-79,Lagos Sisi,15o3wh1ONS1ZcVK2cjwhr9,0.724,0.629,10,-8.867,0,0.0626,0.000462,0.117,0.643,107.209,202533,4
+Various Artists,Afro Baby: The Evolution of the Afro-Sound in Nigeria 1970-79,Afro Baby,06wKNTsuG4ME4oNR0leBCE,0.832,0.636,0,-9.047,0,0.0609,0.0,0.0977,0.834,99.528,188507,4
+Various Artists,"Soundway presents Ghana Soundz (Afro-Beat, Funk and Fusion in 70's Ghana)",Heaven,4PCW6nxrT9qxet5scL7T1L,0.641,0.768,9,-7.314,0,0.0521,0.558,0.0881,0.384,99.512,365680,4
+Various Artists,Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria,Blacky Joe,6dgB8hJLSydO5E1i4wyHjz,0.562,0.706,9,-8.27,1,0.0485,0.00085,0.314,0.549,139.965,299960,4
+Various Artists,Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria,Akwa Kayi Ji Bia Nuwa,6iNLRaWoB35tb4l7SKLqB5,0.518,0.915,3,-7.634,0,0.0431,9.68e-05,0.487,0.912,112.238,329373,4
+Lijadu Sisters,Danger,Life's Gone Down Low,2j6qaYClA4UgQjfsSfV9O0,0.613,0.43,0,-8.812,0,0.0711,5.76e-06,0.195,0.607,153.06,297160,4
+Orchestra Baobab,Orchestra Baobab - Classic Titles,Liiti Liiti,1167uGZaGyvumEMmRSJK87,0.641,0.587,7,-8.614,1,0.0699,0.748,0.0643,0.896,123.419,399040,4
+Sofrito,Sofrito: Tropical Discotheque,Yiri Yiri Boum,1pqbdj1SMGoG5Wja1FB5OQ,0.663,0.849,6,-11.62,1,0.0358,0.24,0.358,0.966,90.172,305733,4
+Various Artists,Highlife Time Vol. 2,Sweet Mother,4n2UrVNTtPaKHt9h6SQwr6,0.713,0.901,5,-6.805,1,0.0648,0.00409,0.26,0.894,125.65,594520,4
+Various Artists,Belle Époque Vol.1 : Soundiata,Soundiata l'Exil,0TZio0KCSSec7JApgxiaIZ,0.58,0.683,7,-5.9,1,0.056,0.189,0.073,0.711,104.102,1669933,4
+Orchestra Baobab,Orchestra Baobab - Classic Titles,Cabral,4XFVtcKAyDOQWQtZvxLzJa,0.638,0.321,11,-7.743,1,0.0541,0.246,0.0911,0.687,167.192,512693,3
+Orchestra Baobab,Orchestra Baobab - Classic Titles,Ndeleng Ndeleng,3Vi7lrL4vAXWjYJ3hSQBPm,0.62,0.597,6,-7.164,0,0.0552,0.632,0.0829,0.673,120.787,446333,4
+Stoneface and Life Everlasting,Academy Special Single Series,Love Is Free,0mpfBJyRbXgFWR4e5KQLWm,0.721,0.823,5,-7.664,1,0.0895,0.000827,0.064,0.768,108.447,156085,4
+Boubacar Traoré,Boubacar Traoré - Classic Titles,Mariama Kaba,1hEn6wnC7lW35n2XVCh5y8,0.411,0.267,3,-9.452,0,0.0367,0.0255,0.112,0.328,124.507,336240,4
+Os Apolos,Recordaçao,Massanga mama,1Kkhn2LwyTv9QyhKK2c2Zi,0.365,0.497,2,-11.93,1,0.0359,0.0,0.0706,0.321,152.843,299080,4
+Sir Victor Uwaifo,Greatest Hits Vol.1,Guitar boy,35Zvz8d0ZRGlN4qZCqbKJz,0.75,0.758,8,-4.586,1,0.409,0.418,0.349,0.779,100.733,343040,4
+Sofrito,Sofrito: Tropical Discotheque,Ohue - Frankie Francis & Simbad Edit,1zAc4xyLa76AR89snFHI97,0.867,0.809,6,-8.473,0,0.0684,0.106,0.0545,0.714,131.973,334173,4
+Various Artists,"Ghana Soundz, Vol. 2: Afro-Beat, Funk and Fusion in 70's Ghana",Olufeme,6CfJ0aNSkrp4vY8VW3ZXSX,0.731,0.868,2,-8.286,1,0.0898,0.000649,0.153,0.744,107.885,157827,4
+Various Artists,Nigeria 70 - Lagos Jump,Aiye Le,6kyi0lxBGhnC4p7Ve7958A,0.577,0.913,1,-5.641,0,0.049,0.000136,0.288,0.978,165.916,185413,4
+Amadou & Mariam,1990 - 1995: L'Intégrale des Années Maliennes,Anka Miri Gnognoma,3vTpNeDHWKtrrGnCS9JPE9,0.651,0.54,11,-5.745,1,0.0376,0.000587,0.154,0.857,99.016,183907,4
+Kon & Amir present,Off Track Vol. III: Brooklyn,Enjoy Your Life,6CF8GfMjTn1sVy1PliUwal,0.886,0.625,0,-8.661,0,0.0519,0.00807,0.0614,0.873,114.788,377041,4
+Various Artists,Rough Guide To Psychedelic Africa,Kadia Blues,05iU1XHwGZS8Q9HBzbL29X,0.578,0.199,9,-13.689,0,0.0522,0.822,0.106,0.368,127.382,300533,4
+Bena,La Compile Soul-Funk Vinyles Collectors,Yatchiminou. - Jimmy Hyacinthe,5pjDHcgef819Y3g1Lw62eD,0.668,0.939,1,-7.646,1,0.0593,0.595,0.0814,0.93,116.015,420880,4
+Kiki Gyan,24 Hours in a Disco 1978-82,Disco Dancer,1np1H7mh6iUZhdBhkh3QIo,0.699,0.869,9,-10.199,1,0.0456,0.411,0.0368,0.963,115.273,416800,4
+Various Artists,Côte d'ivoire : 50 ans d'indépendance musicale (Ivory Coast 50 Songs),Zibote,4T8dXML8DWNIibVPpu69SM,0.592,0.686,8,-5.527,0,0.0893,8.66e-06,0.14,0.824,91.413,340707,4
+Mory Kanté,Akwaba Beach,Deni,7HdnsBY4h3qvSUYlSIBnKA,0.688,0.805,10,-13.474,1,0.0389,0.178,0.0521,0.927,129.703,229333,4
+Fela Kuti,Anthology 2,Expensive Shit,6F4Kfc52oOhbZme8oXgRqo,0.721,0.875,7,-7.584,0,0.0938,0.38,0.0879,0.706,123.716,793704,4
+The Apostles,Onye Akpa / Oshi Onwu (Academy Special Single Series),Onye Akpa,2L7y9MCiiadqU1evxa3VDs,0.536,0.829,10,-7.024,0,0.0381,0.000788,0.119,0.919,87.78,187362,4
+Toumani Diabaté,The Mandé Variations,Elyne Road,20i1I1ENUZAYWyfX6Qn9Es,0.525,0.144,4,-18.556,1,0.0357,0.8,0.244,0.379,128.246,530347,3
+Ali Farka Touré,The River,Heygana,5sxFt9gK2pkjH7BKTbLQfB,0.483,0.545,5,-13.3,0,0.0367,0.000395,0.338,0.618,140.142,358627,4
+Ali Farka Touré,The River,Goydiotodam,70dff11FcYhP3T4BEyxSa7,0.315,0.465,10,-17.4,1,0.0458,0.332,0.0941,0.916,176.317,384867,4
+Tinariwen,Tassili,Tenere Taqqim Tossam,650oRnU8snNxCIqeQ92fTL,0.744,0.802,11,-8.19,0,0.13,0.00259,0.108,0.865,98.824,253320,4
+Victor Démé,Deli,Sina,4P3VwPv8vQDlVrOT5Cc3Be,0.655,0.563,9,-7.989,0,0.0534,0.0,0.227,0.799,79.986,281133,4
+Various Artists,Jamm,Il n'est jamais trop tard,51jf0CFhckyW9EWS2Q9alq,0.494,0.485,7,-13.524,1,0.0682,0.053,0.115,0.858,84.095,268667,4
+Oumou Sangaré,Seya,Iyo Djeli,4NCy9M11LWsnI4fdGyfEw8,0.607,0.681,10,-7.597,1,0.0418,9.2e-06,0.101,0.862,89.395,398213,4
+Various Artists,Belle Époque Vol.1 : Soundiata,Mali Cebalenw,1Dot5F65VJ9rxI9AkyhvOf,0.528,0.666,5,-6.563,1,0.0327,0.0421,0.295,0.725,155.934,395800,4
+Various Artists,"Ivoir' Compil, Vol. 4 : 14 tubes (Le meilleur de la musique ivoirienne spécial An 2000)",1er Gaou,7IzwAhZdDVF6vVDtRLsrKL,0.863,0.825,5,-7.414,0,0.104,0.0,0.0704,0.911,120.729,289360,4
+Magic System,Cessa Kiè La Vérité,Petit pompier,18FyCxuYbath9hbAU7mRNp,0.826,0.805,11,-3.117,0,0.208,0.0,0.155,0.963,127.101,278080,4
+Babatunde Olatunji,Drums of Passion,Jin-Go-Lo-Ba (Drums Of Passion),4t2jtCR36gp1ZIHKKBJwF3,0.752,0.669,0,-10.555,1,0.0508,0.0253,0.0954,0.524,125.743,197280,4
+Various Artists,Nigeria Rock Special: Psychedelic Afro-Rock & Fuzz Funk in 1970's Nigeria,Finger Toe,0Ky4cDhhwoMrKNNXGVieEE,0.534,0.87,4,-10.85,0,0.0495,0.0332,0.131,0.865,114.233,324147,4
+Orlando Julius,Disco Hi-Life,Disco Hi-Life - Original Version,2WNSDa9fycsYHqH9g0EKqq,0.678,0.718,7,-7.189,0,0.111,0.0842,0.0699,0.899,121.637,540987,4
+Various Artists,Nigeria 70 Vol. 1,Orere Elejigbo,25N32gqAjZaqzYkNxWXDaV,0.627,0.747,1,-7.082,0,0.26,0.0,0.312,0.869,114.42,253653,4
+Gyedu-Blay Ambolley,Simigwa,Kwaakwaa,3ze89CpDXE8epkuvlBTcKc,0.741,0.676,10,-12.865,0,0.0646,0.000529,0.162,0.915,123.907,323593,4
+Various Artists,"Ivory Music Classics, Vol. 1",She's A Dropout,3SOSAvBON7ZfpxPvNm3KJ1,0.668,0.675,0,-11.181,1,0.0524,0.00138,0.0929,0.745,106.271,191533,4
+Various Artists,Lagos Disco Inferno,Root,3v728coVd6cYWDAxHuV5qX,0.627,0.737,1,-10.674,1,0.0995,0.00129,0.657,0.883,105.731,201067,4
+Various Artists,Rough Guide To Psychedelic Africa,Nijaay,4sSgOGOsW3VvBVJ0JQplfy,0.608,0.501,1,-10.646,0,0.0547,0.011,0.105,0.365,91.86,434293,4
+Fela Kuti,He Miss Road,It's No Possible,62Oaj10iyoqwg1SaZgWcda,0.552,0.728,1,-9.211,1,0.0471,0.282,0.0952,0.526,117.412,1056067,4
+Various Artists,Ivory Coast Soul 2,Ye Man Noun,6flJ4iuWuB4J6zRwB0JoV0,0.708,0.706,0,-10.975,1,0.0558,0.0776,0.304,0.818,112.606,710453,4
+Various Artists,Ivory Coast Soul 2,I Love Music,5LTsz0qOoPTAEes8Qzd8tk,0.659,0.671,7,-7.207,1,0.188,0.0343,0.301,0.755,99.981,564573,4
+Freedom Family,Ayentsoo,Lala Li,7bDSR0kM9gFY99tQnZXEH0,0.622,0.685,5,-14.49,1,0.0628,0.0732,0.334,0.85,114.381,278000,4
+Francis Bebey,African Electronic Music 1975 - 1982,Divorce Pygmée,1huaqbM4Sk9j3uJ14Wkxzq,0.619,0.773,9,-6.109,1,0.0335,0.000615,0.173,0.876,108.232,328493,4
+Orchestra Baobab,La Belle Epoque,Juana,6px1wgGBcckIsYXc5rR6Bo,0.531,0.521,0,-5.75,0,0.0321,0.00256,0.177,0.614,77.352,308467,4
+Les Amazones de Guinée,Au coeur de Paris & M'mah Sylla (Bolibana Collection),Samba,66vOMwl8GYSPCjwagXMlsh,0.563,0.55,11,-16.361,0,0.0607,0.000455,0.406,0.772,122.645,297000,4
+Various Artists,"Golden Afrique, Vol. 1: Highlights of African Pop Music (1971-1983)",Dissan na m'bera,1LiuuKNNnIL0xR546Vn8ia,0.624,0.76,10,-8.137,0,0.0384,0.337,0.246,0.971,109.516,312667,4
+Various Artists,"Golden Afrique, Vol. 1: Highlights of African Pop Music (1971-1983)",Warteef jiggeen,7kYfZkKuVFd9Uszpa1RH9R,0.517,0.745,4,-7.758,0,0.0298,0.00309,0.121,0.814,100.434,411173,4
+Bembeya Jazz National,Authenticité 73 (Parade africaine),Moussogbe,0xSsHIJ8CGmkiIpjlhmozU,0.569,0.425,8,-10.67,1,0.043,0.00123,0.208,0.649,92.98,430333,4
+Bembeya Jazz National,Discothèque 76,Petit Sekou,7bJSFZJzWv8J7AyzZIGASJ,0.495,0.744,4,-5.372,0,0.0481,0.9,0.126,0.652,81.069,355250,4
+The Apostles,Feeling Happy,Feeling Happy,1a0jxuWpFiqJt6vKgHb7Nd,0.805,0.772,11,-8.483,0,0.0966,0.000351,0.48,0.887,107.394,236667,4
+Various Artists,Angola Soundtrack: The Unique Sound of Luanda: 1968-1976 (Analog Africa No. 9),Ulungu Wami,2dJzrtuIDi0oRaSDZA1x8K,0.604,0.795,6,-6.307,1,0.146,0.0,0.159,0.725,124.852,170800,4
+Various Artists,Angola Soundtrack: The Unique Sound of Luanda: 1968-1976 (Analog Africa No. 9),Massanga Mama,1L7TT0t4XxcKQAJ1HRv81z,0.51,0.243,2,-10.402,1,0.26,0.000262,0.121,0.0745,94.031,761827,4
+Various Artists,"Angola, Soundtrack 2: Hypnosis, Distortions & Other Sonic Innovations 1969-1978 (Analog Africa No. 15)",N`Hoca,2dLdhWgcyGno9kcjfE8mqT,0.619,0.498,11,-6.528,1,0.0789,4.57e-06,0.177,0.393,111.459,177360,4
+Various Artists,Soundway presents Nigeria Disco Funk Special (The Sound of the Underground Lagos Dancefloor 1974-1979),Greetings,2ha70kafYrxpwKB2DHLTJT,0.693,0.872,9,-6.04,1,0.148,0.0345,0.381,0.822,116.681,374253,4
+Various Artists,Legends of Benin (Analog Africa No. 5),La Musica en vérité,6KG3uMvfPVb2dkU4hfMMiJ,0.594,0.703,11,-9.078,0,0.03,0.00038,0.118,0.625,94.498,431733,4
+Various Artists,Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 14),Odofo Nyi Akyiri Biara,50IyuH9qLwaAb8vHrCLiIM,0.716,0.957,3,-4.814,1,0.0689,0.058,0.182,0.93,106.714,576888,4
+Various Artists,Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 14),Ne Noya,5lTUluLxMa6qhaURS45hXB,0.762,0.826,7,-4.588,0,0.0329,0.000866,0.085,0.832,121.092,252473,4
+Various Artists,Bambara Mystic Soul: The Raw Sound of Burkina Faso 1974-1979 (Analog Africa No. 10),Renouveau,345NC3wU2bDi1EBPYfS1g4,0.742,0.352,3,-10.553,0,0.0463,0.868,0.125,0.798,126.208,286360,3
+Various Artists,Angola Soundtrack: The Unique Sound of Luanda: 1968-1976 (Analog Africa No. 9),Rei do Palhetinho,4pFCv4bamAfJGC9yUB1lPA,0.605,0.694,0,-9.338,1,0.179,2.41e-06,0.129,0.799,128.96,188400,4
+Various Artists,Legends of Benin (Analog Africa No. 5),Okpo Videa Bassouo,5GGLE3h7grITyOUDElVOt7,0.785,0.753,2,-7.841,1,0.0647,6.4e-05,0.353,0.845,106.34,210227,4
+Various Artists,"Golden Afrique, Vol. 1: Highlights of African Pop Music (1971-1983)",Yaye boye,35UzTaY1f9KcHDA2tPQrrU,0.632,0.623,9,-8.432,0,0.0635,0.0343,0.0968,0.914,100.543,313227,4
