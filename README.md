@@ -1,5 +1,4 @@
-# data601homework3
-Homework 3 doing a linear regression 
+#What Makes West African Music So Great?
 <h1>Overview</h1>
 <p>This Repo contains the report also known as the Juptyer notebook, the images included with the exploratory analysis, also the data csv file. The notebook explores the audio features of a West African music playlist titled "West African classics (Afrobeat, Highlife, Juju, Afrojazz, Afro-blues, etc) from the user Jonas Grönlund.</p>
 <h2>Goals and Motivation</h2>
